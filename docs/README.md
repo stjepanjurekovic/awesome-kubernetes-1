@@ -120,6 +120,7 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 - [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
 - [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) ![runx](media/runx_symbol.png)
 - [Practical Nats](https://www.apress.com/gp/book/9781484235690)
+- [Road to Kubernetes](https://www.manning.com/books/road-to-kubernetes)
 
 ### Meetups
 - [Bay Area Kubernetes Meetup](https://www.meetup.com/Bay-Area-Kubernetes-Meetup/)
